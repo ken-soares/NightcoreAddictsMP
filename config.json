@@ -1,0 +1,17 @@
+{
+	"default-color": "#000000",
+	"warning-color": "#FF0000",
+	"__comment": "!!max font size is 14 for regular-font-size",
+	"title-font-size": 16,
+	"regular-font-size": 11,
+	"bg-color": "#DBD9DB",
+	"font": "Verdana",
+	"symbols": true,
+	"startup_sound": true,
+	"bg-button-color": "#DBD9DB",
+	"__comment3": "!!File path must include / if on Windows",
+	"default-file-path": "",
+	"default-volume": 0.5,
+	"playlist-dir": "playlists/",
+	"logo-image": "Misc/logo_small.png"
+}
